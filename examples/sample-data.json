@@ -1,0 +1,9 @@
+{
+  "candidate": "fictional-opportunity-17",
+  "signals": ["intake", "scheduling", "status_tracking"],
+  "evidence_scope": "customer_authored",
+  "business_validation": "active",
+  "audit_status": "qualified",
+  "next_artifact": "prototype_brief"
+}
+
